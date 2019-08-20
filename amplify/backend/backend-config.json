@@ -1,6 +1,6 @@
 {
 	"auth": {
-		"authcra9680107996801079": {
+		"authcrac265badd": {
 			"service": "Cognito",
 			"providerPlugin": "awscloudformation",
 			"dependsOn": []

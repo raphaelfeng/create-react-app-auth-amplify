@@ -9,6 +9,11 @@
             "UnauthRoleName": "authcra-amplify-20190820191134-unauthRole",
             "StackName": "authcra-amplify-20190820191134",
             "StackId": "arn:aws:cloudformation:us-west-2:069289935426:stack/authcra-amplify-20190820191134/5381c560-c37e-11e9-9de3-06deb474fa52"
+        },
+        "categories": {
+            "auth": {
+                "authcrac265badd": {}
+            }
         }
     },
     "dev": {
@@ -21,11 +26,6 @@
             "UnauthRoleName": "authcra-dev-20190820144144-unauthRole",
             "StackName": "authcra-dev-20190820144144",
             "StackId": "arn:aws:cloudformation:us-west-1:069289935426:stack/authcra-dev-20190820144144/37ac2c30-c393-11e9-80bb-023dc2ae74e8"
-        },
-        "categories": {
-            "auth": {
-                "authcra9680107996801079": {}
-            }
         }
     }
 }
