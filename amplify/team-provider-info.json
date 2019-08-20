@@ -9,11 +9,6 @@
             "UnauthRoleName": "authcra-amplify-20190820191134-unauthRole",
             "StackName": "authcra-amplify-20190820191134",
             "StackId": "arn:aws:cloudformation:us-west-2:069289935426:stack/authcra-amplify-20190820191134/5381c560-c37e-11e9-9de3-06deb474fa52"
-        },
-        "categories": {
-            "auth": {
-                "cognitocf0c6096": {}
-            }
         }
     }
 }
